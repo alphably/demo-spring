@@ -11,13 +11,7 @@ import com.yengue.demospring.entities.Produit;
 @RestController
 public class ProduitController {
 
-	@Autowired
-	private ProduitDAO prodao;
 	
-	public List<Produit> listeDesProduits() {
-		
-		return null;
-	}
 	
 	
 }
