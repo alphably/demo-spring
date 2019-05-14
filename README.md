@@ -1,2 +1,2 @@
 # demo-spring
-test avec jenkins
+ce projet bac à sable permet de tester l'intégration continue avec Jenkins
